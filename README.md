@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DeineMamer
-- 👀 I’m interested in web development, database systems and C++.
+- 👀 I’m interested in web development (because I am a huge sadist), database systems and C++.
 - 📫 How to reach me: h.rietsch@proton-mail.com
 - Furthermore, I consider that any privatization of knowledge must be destroyed.
 
